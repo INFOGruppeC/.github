@@ -3,10 +3,10 @@
 INFOGruppeC ist die Organisation der besten der drei Gruppen des Info Kurses (Gruppe C!!!!) 
 
 
- - [Lineare Datenstruckturen](https://github.com/INFOGruppeC/Lernzettel/Lineare%20Datenstrukturen.md)
-   - [Suchen und Sortieren](./sus)
-     - [SuS Array](./sus/SuS%20Array.md)
-     - [SuS List](./sus/SuS%20List.md)
- - [Nicht lineare Datenstrukturen](./Nicht%20lineare%20Datenstrukturen.md)
- - [Datenbanken](./Datenbanken.md)
- - [Automaten und Sprachen](./Automaten%20und%20Sprachen.md)
+ - [Lineare Datenstruckturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare%20Datenstrukturen.md)
+   - [Suchen und Sortieren](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus)
+     - [SuS Array](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20Array.md)
+     - [SuS List](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20List.md)
+ - [Nicht lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Nicht%20lineare%20Datenstrukturen.md)
+ - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/blob/main/Datenbanken.md)
+ - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Automaten%20und%20Sprachen.md)
