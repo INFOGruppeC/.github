@@ -13,8 +13,8 @@ Lernmaterialien:
    - [Altklausuren](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altklausuren/)
    - [Altlernzettel](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altlernzettel/)
  
- - [Nicht lineare Datenstrukturen](./Nicht-lineare-Datenstrukturen/)
+ - [Nicht lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Nicht-lineare-Datenstrukturen/)
 
- - [Datenbanken](./Datenbanken/)
+ - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/blob/main/Datenbanken/)
 
- - [Automaten und Sprachen](./Autotmaten-und-formale-Sprache/)
+ - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Autotmaten-und-formale-Sprache/)
