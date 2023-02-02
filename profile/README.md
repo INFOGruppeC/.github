@@ -17,4 +17,4 @@ Lernmaterialien:
 
  - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/blob/main/Datenbanken/)
 
- - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Autotmaten-und-formale-Sprache/)
+ - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Autotmaten-und-Sprachen/)
