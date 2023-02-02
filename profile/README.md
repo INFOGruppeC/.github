@@ -3,7 +3,7 @@
 INFOGruppeC ist die Organisation der besten der drei Gruppen des Info Kurses (Gruppe C!!!!) 
 
 
- - [Lineare Datenstruckturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare%20Datenstrukturen.md)
+ - [Lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare%20Datenstrukturen.md)
    - [Suchen und Sortieren](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus)
      - [SuS Array](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20Array.md)
      - [SuS List](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20List.md)
