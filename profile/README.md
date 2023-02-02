@@ -2,11 +2,19 @@
 
 INFOGruppeC ist die Organisation der besten der drei Gruppen des Info Kurses (Gruppe C!!!!) 
 
+Lernmaterialien:
 
- - [Lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare%20Datenstrukturen.md)
-   - [Suchen und Sortieren](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus)
-     - [SuS Array](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20Array.md)
-     - [SuS List](https://github.com/INFOGruppeC/Lernzettel/blob/main/sus/SuS%20List.md)
- - [Nicht lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Nicht%20lineare%20Datenstrukturen.md)
- - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/blob/main/Datenbanken.md)
- - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Automaten%20und%20Sprachen.md)
+ - [Lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/)
+   - [Praxisprojekt](https://github.com/INFOGruppeC/Praxissimulation)
+   - [Suchen und Sortieren](https://github.com/INFOGruppeC/Lernzettel/blob/main//Lineare-Datenstrukturen/sus/)
+     - [SuS Array](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/sus/SuS%20Array.md)
+     - [SuS List](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/sus/SuS%20List.md)
+   - [Abiturklassen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Abiturklassen/)
+   - [Altklausuren](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altklausuren/)
+   - [Altlernzettel](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altlernzettel/)
+ 
+ - [Nicht lineare Datenstrukturen](./Nicht-lineare-Datenstrukturen/)
+
+ - [Datenbanken](./Datenbanken/)
+
+ - [Automaten und Sprachen](./Autotmaten-und-formale-Sprache/)
