@@ -2,19 +2,22 @@
 
 INFOGruppeC ist die Organisation der besten der drei Gruppen des Info Kurses (Gruppe C!!!!) 
 
-Lernmaterialien:
+In dieser Organisation finden sich folgende Inhalte:
 
- - [Lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/)
-   - [Praxisprojekt](https://github.com/INFOGruppeC/Praxissimulation)
-   - [Suchen und Sortieren](https://github.com/INFOGruppeC/Lernzettel/blob/main//Lineare-Datenstrukturen/sus/)
-     - [SuS Array](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/sus/SuS%20Array.md)
-     - [SuS List](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/sus/SuS%20List.md)
-   - [Abiturklassen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Abiturklassen/)
-   - [Altklausuren](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altklausuren/)
-   - [Altlernzettel](https://github.com/INFOGruppeC/Lernzettel/blob/main/Lineare-Datenstrukturen/Altlernzettel/)
+- [Lernzettel](https://github.com/INFOGruppeC/Lernzettel)
  
- - [Nicht lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Nicht-lineare-Datenstrukturen/)
+    Abgedeckt sind die Themen
+    - [Lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/tree/main/Lineare-Datenstrukturen)
+    - [Nicht lineare Datenstrukturen](https://github.com/INFOGruppeC/Lernzettel/tree/main/Nicht-lineare-Datenstrukturen)
+    - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/tree/main/Datenbanken)
+    - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/tree/main/Automaten-und-Sprachen) sowie
+    - [Objektorientierte Programmierung und Modellierung](https://github.com/INFOGruppeC/Lernzettel/tree/main/Objektorientierte-Modellierung-und-Programmierung)
 
- - [Datenbanken](https://github.com/INFOGruppeC/Lernzettel/blob/main/Datenbanken/)
+    ganz gemäß der [Abiturvorgaben 2023](https://github.com/INFOGruppeC/Lernzettel/tree/main/Abiturvorgaben).
+    
+  > Zur erweiterten Übersicht bzw. besseren Navigation durch die (Unter-)Themen der Lernzettel bitte [hier](https://github.com/INFOGruppeC/Lernzettel) anfangen!
 
- - [Automaten und Sprachen](https://github.com/INFOGruppeC/Lernzettel/blob/main/Autotmaten-und-Sprachen/)
+- [Praxisprojekt Lineare Datenstrukturen](https://github.com/INFOGruppeC/Praxisprojekt-Lineare-Datenstrukturen)
+- [Praxisprojekt Graphen und Bäume](https://github.com/INFOGruppeC/Praxisprojekt-Graphen-und-Baeume)
+
+Viel Spaß beim Lernen xD
